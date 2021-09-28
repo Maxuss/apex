@@ -1,5 +1,7 @@
 # Introduction
 
+## This fork is made purely to fix a bug with colab not wanting to work with apex
+
 This repository holds NVIDIA-maintained utilities to streamline
 mixed precision and distributed training in Pytorch.
 Some of the code here will be included in upstream Pytorch eventually.
